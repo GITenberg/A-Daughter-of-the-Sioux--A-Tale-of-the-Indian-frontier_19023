@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '6787'
     url: http://www.gutenberg.org/2009/agents/6787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19023#A-Daughter-of-the-Sioux--A-Tale-of-the-Indian-frontier
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2006-08-10'
 gutenberg_type: Text
